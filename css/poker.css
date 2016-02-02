@@ -1,0 +1,337 @@
+/*image box*/
+#box{
+    padding: 0px 0px 0px 10px;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    display:inline-block;
+    margin: 20px;
+    position: relative;
+    border: none;
+    border-radius: 50%;
+    background-image: url("../img/team/poker.jpg");
+    background-repeat:no-repeat;　
+    background-attachment:fixed;
+    background-position:center;    
+}
+
+.boxadmin1{    
+    background-image: url("../img/team/monster.jpg");
+}
+
+.boxadmin2{
+    background-image: url("../img/team/bob.png");
+}
+.boxadmin3{
+   background-image: url("../img/team/lanti.jpg");
+}
+.boxadmin4{
+    background-image: url("../img/team/ready.png"); 
+}
+.boxadmin5{ 
+    background-image: url("../img/team/support.jpg"); 
+}
+.boxadmin6{ 
+    background-image: url("../img/team/snake1.png"); 
+}
+.boxadmin7{ 
+    background-image: url("../img/team/MAMA.jpg"); 
+}
+.boxadmin8{ 
+    background-image: url("../img/team/carry.png");
+}
+.box1{
+    background-image: url("../img/team/yanmei.jpg");   
+}
+.box2{
+    background-image: url("../img/team/pig.jpg");
+}
+.box3{
+    background-image: url("../img/team/thund.jpg");
+}
+.box4{
+    background-image: url("../img/team/mei.png");
+}
+.box5{
+    background-image: url("../img/team/star.jpg");
+}
+.box6{
+    background-image: url("../img/team/milimu.png");
+}
+.box7{
+    background-image: url("../img/team/littlechild.png");
+}
+.box8{
+    background-image: url("../img/team/nico.png");
+}
+.box9{
+    background-image: url("../img/team/lebianc.jpg");
+}
+.box10{
+    background-image: url("../img/team/yin.png");
+}
+.box11{
+    background-image: url("../img/team/fmajor.png");    
+}
+.box12{
+    background-image: url("../img/team/yue.jpg"); 
+}
+.box13{
+    background-image: url("../img/team/childheart.png");
+}
+.box14{
+    background-image: url("../img/team/yaya.jpg");
+}
+.box15{
+    background-image: url("../img/team/domo.jpg");
+}
+.box16{
+    background-image: url("../img/team/zeus.png");
+}
+.box17{
+   background-image: url("../img/team/rabbit.png");
+}
+.box18{
+   background-image: url("../img/team/family.png");
+}
+.box19{
+   background-image: url("../img/team/dragon9.jpg");
+}
+.box20{
+   background-image: url("../img/team/snake3.png");
+}
+.box21{
+   background-image: url("../img/team/snake9.png");
+}
+.box22{
+   background-image: url("../img/team/sister.png");
+}
+.box23{
+    background-image: url("../img/team/wugug.png"); 
+}
+.box24{
+   background-image: url("../img/team/color.jpg"); 
+}
+.box25{
+    background-image: url("../img/team/gfmrt.jpg");   
+}
+.box26{
+    background-image: url("../img/team/moon.png"); 
+}
+.box27{
+   background-image: url("../img/team/dream.png"); 
+}
+.box28{
+    background-image: url("../img/team/same.jpg");
+}
+.box29{
+   background-image: url("../img/team/sky.jpg");
+}
+.box30{
+   background-image: url("../img/team/miss.png");
+}
+.box31{
+   background-image: url("../img/team/pion.jpg");
+}
+.box32{
+   background-image: url("../img/team/TBB.png");
+}
+.box33{
+   background-image: url("../img/team/7mei.png");
+}
+.box34{
+   background-image: url("../img/team/sexy.png");
+}
+.box35{
+   background-image: url("../img/team/longday.png");
+}
+.box36{
+   background-image: url("../img/team/snake5.png");
+}
+.box37{
+   background-image: url("../img/team/113417.png");
+}
+.box38{
+   background-image: url("../img/team/lion.png");
+}
+.box39{
+   background-image: url("../img/team/lastman.png");
+}
+.box40{
+   background-image: url("../img/team/small.jpg");
+}
+.box41{
+   background-image: url("../img/team/circle.png");
+}
+.box42{
+   background-image: url("../img/team/earer.jpg");
+}
+.box43{
+   background-image: url("../img/team/lucky.png");
+}
+.box44{
+   background-image: url("../img/team/snake6.jpg");
+}
+.box45{
+   background-image: url("../img/team/ln.png");
+}
+.box46{
+   background-image: url("../img/team/ang.png");
+}
+.box47{
+   background-image: url("../img/team/qaq.png");
+}
+.box48{
+   background-image: url("../img/team/honoka.png");
+}
+.box49{
+   background-image: url("../img/team/hix.png");
+}
+.box50{
+   background-image: url("../img/team/mimi.png");
+}
+.box51{
+   background-image: url("../img/team/heart.png");
+}
+.box52{
+   background-image: url("../img/team/rgu.jpg");
+}
+.box53{
+   background-image: url("../img/team/grassnima.jpg");
+}
+.box54{
+   background-image: url("../img/team/smith.png");
+}
+.box55{
+   background-image: url("../img/team/qman.jpg");
+}
+.box56{
+   background-image: url("../img/team/luffy.jpg");
+}
+
+.box:hover{ -webkit-animation:shak .3s infinite; -moz-animation:shak .3s infinite;}
+@-webkit-keyframes shak{
+    0%,100%{ -webkit-transform:rotate(-10deg);}
+    50%{-webkit-transform:rotate(10deg);}
+}
+@-moz-keyframes shak{
+    0%,100%{ -moz-transform:rotate(-10deg);}
+    50%{-moz-transform:rotate(10deg);}
+}
+
+
+/*** Default shared CSS ****/
+
+figure.figurefx{
+    overflow: hidden; /* hide overflowing elements by default */
+}
+
+figure.figurefx::before, figure.figurefx::after{ /* create :before and :after pseudo elements that are initially positioned outside canvas */
+    content: '';
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    display: block;
+    background: black;
+    position: absolute;
+    opacity: 0.3;
+    top: 0;
+    left 0;
+    -moz-transform: translate3d(0, -100%, 0); /* position elements past bottom of layout */
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+figure.figurefx img{
+    display: block;
+}
+
+figure.figurefx figcaption{
+    font-family: 'any-average-day', sans-serif;
+    font-weight: 700;
+    position: absolute;
+    display: block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: center;
+    background: white;
+    padding: 5px;
+    z-index: 100;
+    width: 100%;
+    max-height: 100%;
+    overflow: hidden;
+    top: 50%;
+    left: 0;
+    -moz-transform: translate3d(-100%, -50%, 0); /* position caption outside layout horizontally and centered vertically */
+    -webkit-transform: translate3d(-100%, -50%, 0);
+    transform: translate3d(-100%, -50%, 0);
+    opacity: 0;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+
+/*** Default slide down panel effect ****/
+
+figure.default:hover::before{
+    -moz-transform: translate3d(0, 0, 0);
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+figure.default:hover figcaption{
+    opacity: 1;
+    -moz-transform: translate3d(0, -50%, 0); /* center caption */
+    -webkit-transform: translate3d(0, -50%, 0);
+    transform: translate3d(0, -50%, 0);
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    -moz-transition-delay: 0.5s;
+    -webkit-transition-delay: 0.5s;
+    transition-delay: 0.5s;
+}
+
+
+.wish-pool-wrap {
+    overflow: hidden;
+}
+
+.wish-pool {
+    overflow: hidden;
+    margin: 18px auto 20px auto;
+}
+
+.wish-pool .wish {
+    float: left;
+    margin: 0px 15px 30px 0px;
+    padding: 15px 15px;  
+    background: rgba(11, 43, 197, 0.4); 
+    color: #000;
+    border-radius: 50%;
+    font-family: 'Microsoft JhengHei', sans-serif;
+    font-size: 25px;
+    font-weight: bold;   
+    line-height: 1.5; 
+}
+
+#giftname{
+  width: 60%;
+  margin: 0px auto;
+}
+
+@media (max-width: 992px) {
+   .box{
+    margin: 10px;  
+  }
+  #giftname{
+    width: 90%;
+  }
+}
