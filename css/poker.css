@@ -1,7 +1,4 @@
 /*image box*/
-#box{
-    padding: 0px 0px 0px 10px;
-}
 
 .box{
     width: 100px;
@@ -14,7 +11,7 @@
     background-image: url("../img/team/poker.jpg");
     background-repeat:no-repeat;　
     background-attachment:fixed;
-    background-position:center;    
+    background-position:center;
 }
 
 .boxadmin1{    
@@ -245,10 +242,6 @@ figure.figurefx::before, figure.figurefx::after{ /* create :before and :after ps
     -moz-transition: all 0.5s;
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
-}
-
-figure.figurefx img{
-    display: block;
 }
 
 figure.figurefx figcaption{
