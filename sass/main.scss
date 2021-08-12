@@ -18,6 +18,7 @@ Preloader Style
         right: 0;
         bottom: 0;
         z-index: 999999;
+        overflow: hidden;
         background: $section-dark;
         i {
             color: #fff;
